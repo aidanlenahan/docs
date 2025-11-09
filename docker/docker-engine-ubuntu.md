@@ -1,8 +1,6 @@
 # Docker Engine Setup for Ubuntu
 *Source: https://docs.docker.com/engine/install/ubuntu/*
 
-# Install Docker Engine on Ubuntu
-
 ## Prerequisites
 
 ### Firewall limitations

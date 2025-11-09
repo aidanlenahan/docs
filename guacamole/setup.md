@@ -19,8 +19,8 @@ Default password: ```guacadmin```
 If you did not implement TLS/SSL, you may see a message resembling the following:
 
 
-> Your connection isn't private
-> Attackers might be trying to steal your information from 100.127.139.65 (for example, passwords, messages, or credit cards).
+> Your connection isn't private<br>
+> Attackers might be trying to steal your information from 100.127.139.65 (for example, passwords, messages, or credit cards).<br>
 > net::ERR_CERT_AUTHORITY_INVALID
 
 
